@@ -23,7 +23,7 @@
 .main{
     width: 100%;
     height: 100vh;
-    background: url(moon\ notion\ banner.jpg) center center;
+    background: url(moon_bg.jpg) center center;
     background-size: cover;
     display: flex;
     flex-direction: column;
